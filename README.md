@@ -64,4 +64,4 @@ Add this line at the end to the file
 
 Terminator shortcuts [https://cheatography.com/elpedro/cheat-sheets/terminator/](https://cheatography.com/elpedro/cheat-sheets/terminator/)
 
-Git plugins shortcuts [https://cheatography.com/elpedro/cheat-sheets/terminator/](https://cheatography.com/elpedro/cheat-sheets/terminator/)
+Git plugins shortcuts [https://dev.to/giulia_chiola/oh-my-zsh-cheatsheet-3all](https://dev.to/giulia_chiola/oh-my-zsh-cheatsheet-3all)
