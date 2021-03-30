@@ -56,7 +56,7 @@ Change the window transparency
 
 `vim .oh-my-zsh/themes/agnoster.zsh-theme`
 
-Add this line at the end to the file
+Add this line at the end of the file
 
 `RPROMPT="[%D{%y/%m/%f}|%@]"`
 
